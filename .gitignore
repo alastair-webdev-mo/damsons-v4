@@ -3,6 +3,7 @@
 /wp-content/upgrade
 /wp-content/uploads
 /wp-snapshots/
+/phpMyAdmin*
 /sitemap.*
 /wp-config.php
 *.sql
