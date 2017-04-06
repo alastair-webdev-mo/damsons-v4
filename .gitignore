@@ -1,6 +1,9 @@
 # Keep these files out of the repo
 /wp-content/themes/twenty*
 /wp-content/themes/dv4/node_modules
+/wp-content/themes/dv4/assets/img/.DS_Store
+/wp-content/themes/dv4/assets/sass/HTML
+/wp-content/themes/dv4/assets/sass/Rails
 /wp-content/upgrade
 /wp-content/uploads
 /wp-snapshots/
