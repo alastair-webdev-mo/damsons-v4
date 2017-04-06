@@ -22,9 +22,9 @@
 if (file_exists (dirname(__FILE__) . 'local-config.php')) {
 	include (dirname(__FILE__) . 'local-config.php'); 
 } else {
-	define('DB_NAME', 'damsonsnew_db');
-	define('DB_USER', 'root');
-	define('DB_PASSWORD', 'root');
+	define('DB_NAME', 'damsons-wp-wp-kGKWDSbv');
+	define('DB_USER', 'DAcmxKeoQDSL');
+	define('DB_PASSWORD', 'ally622524');
 	define('DB_HOST', 'localhost');
 }
 
