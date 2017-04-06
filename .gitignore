@@ -1,8 +1,10 @@
 # Keep these files out of the repo
 /wp-content/themes/twenty*
+/wp-content/themes/dv4/node_modules
 /wp-content/upgrade
 /wp-content/uploads
 /wp-snapshots/
+/wp-content/debug.log
 /phpMyAdmin*
 /sitemap.*
 /wp-config.php
