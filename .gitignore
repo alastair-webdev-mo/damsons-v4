@@ -10,8 +10,13 @@
 /wp-content/debug.log
 /phpMyAdmin*
 /sitemap.*
-local-config.php
 *.sql
+
+# ignore useless plugins file
+wp-content/plugins/hello.php
+wp-content/plugins/index.php
+
+/local-config.php
 
 # Hidden files
 *.DS_Store
