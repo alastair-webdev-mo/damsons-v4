@@ -19,8 +19,8 @@
  */
 
 
-if (file_exists (dirname(__FILE__) . 'local-config.php')) {
-	include (dirname(__FILE__) . 'local-config.php'); 
+if ( file_exists( dirname( __FILE__ ) . 'local-config.php')) {
+	include( dirname( __FILE__ ) . 'local-config.php'); 
 } else {
 	define('DB_NAME', 'damsons-wp-wp-kGKWDSbv');
 	define('DB_USER', 'DAcmxKeoQDSL');
