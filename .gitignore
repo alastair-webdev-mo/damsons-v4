@@ -7,7 +7,6 @@
 /wp-content/debug.log
 /phpMyAdmin*
 /sitemap.*
-/wp-config.php
 *.sql
 
 # Hidden files
