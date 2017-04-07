@@ -41,6 +41,7 @@
 		<!-- DO NOT MODIFY -->
 		<!-- End Facebook Pixel Code -->
 	</head>
+<h1>Hello</h1>
 	<body <?php body_class(); ?>>
 		<div id="fb-root"></div>
 		<script>
